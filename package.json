@@ -1,0 +1,26 @@
+{
+  "name": "call-app",
+  "version": "1.0.0",
+  "description": "call native app fun",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eminoda/call-app.git"
+  },
+  "keywords": [
+    "native",
+    "app"
+  ],
+  "author": "eminoda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eminoda/call-app/issues"
+  },
+  "homepage": "https://github.com/eminoda/call-app#readme"
+}
